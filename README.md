@@ -1,5 +1,5 @@
 # Lanudo
-La herramienta "Lanudo" es un script de fortalecimiento de seguridad para sistemas Linux. 
+La herramienta "Lanudo" es un script de fortalecimiento de seguridad para sistemas Linux. Escrito en BASH.
 
 # ¿Qué es y qué hace?
 

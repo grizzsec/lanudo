@@ -18,8 +18,10 @@ Reiniciar los servicios pertinentes para aplicar los cambios.
 
 # ¿Cómo se ejecuta? 
 
-git clone del link del repositorio
+git clone https://github.com/christiandelopez/lanudo.git
+
 chmod +x lanudo.sh
+
 ejecutar con bash el script 
 
 
